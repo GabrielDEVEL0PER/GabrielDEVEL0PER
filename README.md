@@ -1,4 +1,4 @@
-# E aí, eu sou o Gabriel
+# Gabriel Aguiar
 
 Sou desenvolvedor em formação, com foco em **Python** e **desenvolvimento web**, buscando minha primeira oportunidade como **dev júnior / estagiário**.
 
