@@ -1,4 +1,6 @@
+# Bem-vindo(a) ao meu perfil! 🖥️
 
+> Estudante de Ciência e Engenharia da Computação focado em desenvolvimento de software.
 
 Sou desenvolvedor em formação, com foco em **Python** e **desenvolvimento web**, buscando minha primeira oportunidade como **dev júnior / estagiário**.
 
